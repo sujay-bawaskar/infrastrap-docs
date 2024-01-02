@@ -3,9 +3,9 @@
 
  Below is the architecture diagram.
 
-![Architecture](/docs/assets/images/Infrastructure.jpg)
+![Architecture](/assets/images/Infrastructure.jpg)
 
 
  Git ops flow
 
-![GitOps](/docs/assets/images/gitopsflowchart.jpg)
+![GitOps](/assets/images/gitopsflowchart.jpg)
